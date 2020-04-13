@@ -1,0 +1,4 @@
+req/entities/Request.class
+req/entities/Request_.class
+com/mycompany/Requests/resources/JavaEE8Resource.class
+com/mycompany/Requests/JAXRSConfiguration.class
