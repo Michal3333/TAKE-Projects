@@ -24,6 +24,7 @@ import org.primefaces.model.chart.LineChartModel;
 public class ManageBean {
     
     public class Student {
+        
         private String name;
         private String surname;
         private float averageGrade;
